@@ -11,6 +11,17 @@ Made with flutter. Imported--
 ## USAGE--
 To use the app on your device copy the git url of the repo. Open android studio on your device and select open project via link.Paste the git url and click ok.Run the android simulator.
 
+## Stats --
+<p align =”center”>
+<img src="https://img.shields.io/github/forks/ComputerScientist-01/InteractiveStoryApp"/>
+<img src="https://img.shields.io/github/stars/ComputerScientist-01/InteractiveStoryApp"/>
+<img src="https://img.shields.io/github/issues-pr-closed/ComputerScientist-01/InteractiveStoryApp"/>
+<img src="https://img.shields.io/github/languages/count/ComputerScientist-01/InteractiveStoryApp"/>
+<img src="https://img.shields.io/github/languages/top/ComputerScientist-01/InteractiveStoryApp"/>
+<img src="https://img.shields.io/github/repo-size/ComputerScientist-01/InteractiveStoryApp"/>
+</p>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
